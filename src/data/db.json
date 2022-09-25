@@ -1,0 +1,51 @@
+{
+    "tours" : 
+    [
+        {
+        "id": 1,
+        "title" : "Qatar",
+        "image" : "../images/dubai.jpg",
+        "city" : "Dubai",
+        "rating" : 2.3,
+        "price": 170,
+        "subcontent" : "lorem lorem",
+        "content" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum, accusamus aliquam eum distinctio labore debitis nulla magnam rerum architecto, cumque nihil nisi placeat dignissimos hic impedit fuga sint facere ex itaque maiores ad! A qui dolorum, sit architecto laudantium nihil libero enim, omnis voluptate cumque dolore fuga? Sapiente, ut rerum."
+        },
+
+        {
+        "id": 2,
+        "title" : "Italy",
+        "image" : "../images/venice.jpg",
+        "city" : "Venice",
+        "rating" : 2.3,
+        "price": 160,
+        "subcontent" : "lorem lorem",
+        "content" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum, accusamus aliquam eum distinctio labore debitis nulla magnam rerum architecto, cumque nihil nisi placeat dignissimos hic impedit fuga sint facere ex itaque maiores ad! A qui dolorum, sit architecto laudantium nihil libero enim, omnis voluptate cumque dolore fuga? Sapiente, ut rerum."
+        },
+
+        {
+            "id": 3,
+            "title" : "Mexico",
+            "image" : "../images/mexico.jpg",
+            "city" : "Cancun",
+            "rating" : 2.3,
+            "price": 140,
+            "subcontent" : "lorem lorem",
+            "content" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum, accusamus aliquam eum distinctio labore debitis nulla magnam rerum architecto, cumque nihil nisi placeat dignissimos hic impedit fuga sint facere ex itaque maiores ad! A qui dolorum, sit architecto laudantium nihil libero enim, omnis voluptate cumque dolore fuga? Sapiente, ut rerum."
+        },
+
+        {
+            "id": 4,
+            "title" : "United States",
+            "image" : "../images/new_york.jpg",
+            "city" : "Ohio",
+            "rating" : 2.3,
+            "price": 150,
+            "subcontent" : "lorem lorem",
+            "content" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum, accusamus aliquam eum distinctio labore debitis nulla magnam rerum architecto, cumque nihil nisi placeat dignissimos hic impedit fuga sint facere ex itaque maiores ad! A qui dolorum, sit architecto laudantium nihil libero enim, omnis voluptate cumque dolore fuga? Sapiente, ut rerum."
+        }
+    ]
+        
+    }
+
+    
